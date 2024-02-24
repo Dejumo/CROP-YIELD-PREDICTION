@@ -1,13 +1,13 @@
 # Crop Yield Prediction
 
-This abstract describes a crop yield prediction system designed to assist farmers and stakeholders in decision-making. The system employs machine learning models and data analytics to forecast crop yields based on factors such as weather patterns, soil conditions, and historical data. By integrating various data sources and utilizing advanced algorithms, the system provides accurate predictions, enabling users to optimize agricultural practices, improve resource allocation, and mitigate risks. This system aims to enhance agricultural productivity and sustainability, benefiting the farming community and the broader agricultural sector.
+This is a crop yield prediction system designed to assist farmers and stakeholders in decision-making. The system employs machine learning models and data analytics to forecast crop yields based on factors such as weather patterns, soil conditions, and historical data. By integrating various data sources and utilizing advanced algorithms, the system provides accurate predictions, enabling users to optimize agricultural practices, improve resource allocation, and mitigate risks. This system aims to enhance agricultural productivity and sustainability, benefiting the farming community and the broader agricultural sector.
 
 
 ## Installation
 
 1. Clone the repository to your local machine.
 ```bash
-git clone 
+git clone https://github.com/Dejumo/CROP-YIELD-PREDICTION.git
 ```
 
 ```
@@ -42,6 +42,9 @@ The Crop Management System dataset includes the following features:
 - Season
 - Crop
 - Area
+
+## Screenshot
+
 
 
 ## How to Use
