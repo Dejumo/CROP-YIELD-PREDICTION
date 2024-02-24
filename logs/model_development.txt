@@ -1,0 +1,16 @@
+2024-02-23 07:54:21 Dataset Loaded
+2024-02-23 07:54:21 Crop Year Column dropped
+2024-02-23 07:54:21 Features and target variables are separated
+2024-02-23 07:54:21 Dataset Splitted into training and testing sets
+2024-02-23 07:54:49 Model is training
+2024-02-23 07:54:49 Getting the input parameters as command kine arguments
+2024-02-23 07:54:49 Model making prediction
+2024-02-23 07:54:49 Prediction printed as a string
+2024-02-23 07:55:13 Dataset Loaded
+2024-02-23 07:55:13 Crop Year Column dropped
+2024-02-23 07:55:13 Features and target variables are separated
+2024-02-23 07:55:13 Dataset Splitted into training and testing sets
+2024-02-23 07:55:41 Model is training
+2024-02-23 07:55:41 Getting the input parameters as command kine arguments
+2024-02-23 07:55:41 Model making prediction
+2024-02-23 07:55:41 Prediction printed as a string
