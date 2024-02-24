@@ -45,6 +45,7 @@ The Crop Management System dataset includes the following features:
 
 ## Screenshot
 
+ ![Homepage](https://github.com/Dejumo/CROP-YIELD-PREDICTION/blob/main/imgs/Screenshot.JPG)
 
 
 ## How to Use
